@@ -10,5 +10,6 @@ public class Demo1 {
         System.out.println("hot-fix test");
         System.out.println("push test");
         System.out.println("push test2");
+        System.out.println("push 通过凭证登陆 是否可以推送代码");
     }
 }
