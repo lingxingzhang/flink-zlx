@@ -1,0 +1,5 @@
+{"uid":1,"gender":"male","name":"zs","friends":[{"fid":2,"name":"aa"}]}
+{"uid":2,"gender":"male","name":"ls","friends":[{"fid":1,"name":"cc"},{"fid":2,"name":"aa"}]}
+{"uid":3,"gender":"fmale","name":"ww","friends":[{"fid":2,"name":"bb"}]}
+{"uid":4,"gender":"fmale","name":"zl","friends":[{"fid":3,"name":"aa"}]}
+{"uid":5,"gender":"male","name":"tq","friends":[{"fid":2,"name":"aa"},{"fid":3,"name":"bb"}]}
