@@ -6,5 +6,6 @@ public class Demo1 {
         System.out.println("hello word,git2");
         System.out.println("hello word,git3");
         System.out.println("hello word,git4");
+        System.out.println("hot-fix test");
     }
 }
